@@ -2,11 +2,9 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "commonJs",
-    "rootDir": "ts",
+    "rootDir": "c:/Users/prajwal's pc/Desktop/to-do-app",
     "outDir": "js",
-                     
-    
-},
+  },
   "name": "to-do-app",
   "version": "1.0.0",
   "description": "",
