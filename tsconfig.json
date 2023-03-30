@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
     "target": "ES6",
     "module": "commonJs",
-    "rootDir": "c:/Users/prajwal's pc/Desktop/to-do-app",
+    "rootDir": "c:/Users/prajwal's pc/Desktop/todo",
     "outDir": "js",
   },
   "name": "to-do-app",
@@ -17,5 +19,5 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3"
-  }
+  },
 }
